@@ -1,0 +1,22 @@
+body {
+    background-color: gold
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: "monospace"
+}
+
+p {
+    color: white;
+    font-size: 30px;
+    font-family: "arial black";
+    border: 20px outset red;
+    text-align: center;
+}
+
+p img {
+    text-align: center;
+    border: 20px outset green;
+}
